@@ -1,8 +1,10 @@
+package com.cjme.JavaBasics;
+
 public class StaticVariables {
 
-	static int num;
+  static int num;
 
-	public static void main(String[] args) {
-		System.out.println(StaticVariables.num);
-	}
+  public static void main(String[] args) {
+    System.out.println(StaticVariables.num);
+  }
 }
